@@ -1,17 +1,17 @@
-#Homework 5
+# Homework 5
 
 Verilen ödev doğrultusunda Add Contact uygulaması için istenen test
 senaryolarının Appium yardımıyla otomasyonu yazılmıştır.
 
 ## Açıklama
 
-###Resources Paketi
+### Resources Paketi
 
 /apps içinde test edilecek uygulama mevcut.
 
 /caps içerisinde kullanılan capability lerin json dosyaları mevcut.
 
-###Utility Paketi
+### Utility Paketi
 
 AppiumLocalStarter - Appium u local olarak çalıştırmayı kolayca sağlayan sınıf.
 
@@ -21,12 +21,12 @@ DriverManager - Kullanılan driver ı üreten sınıf.
 
 Helper - Kolayca wait kullanmayı sağlar.
 
-###Pages Paketi
+### Pages Paketi
 
 Uygulamanın Page Object Model Sınıfları burada bulunur.
 
 
-###Tests Paketi
+### Tests Paketi
 
 Test sınıfları bu pakette bulunur.
 
