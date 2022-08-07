@@ -1,0 +1,8 @@
+{
+  "platformName": "Android",
+  "appium:deviceName": "test2Phone",
+  "appium:automationName": "UiAutomator2",
+  "appium:avd": "test2Phone",
+  "app": "C:\\Users\\malie\\IdeaProjects\\homework5-malierbay9\\resources\\apps\\ContactManager.apk",
+  "appium:udid": "emulator-5654"
+}
