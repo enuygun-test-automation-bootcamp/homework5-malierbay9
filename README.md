@@ -7,7 +7,7 @@ senaryolarının Appium yardımıyla otomasyonu yazılmıştır.
 
 ### Resources Paketi
 
-/apps içinde test edilecek uygulama mevcut.
+[aps](https://github.com/enuygun-test-automation-bootcamp/homework5-malierbay9/tree/main/homework5/resources/apps) içinde test edilecek uygulama mevcut.
 
 /caps içerisinde kullanılan capability lerin json dosyaları mevcut.
 
